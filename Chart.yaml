@@ -1,6 +1,6 @@
 apiVersion: v2
 name: simple-helm-test
-description: A Helm chart for Kubernetes
+description: Simple helm chart to test Argo
 
 # A chart can be either an 'application' or a 'library' chart.
 #
