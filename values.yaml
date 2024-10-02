@@ -7,8 +7,6 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 
-namespace: simple-nginx
-
 service:
   type: ClusterIP
   port: 80
